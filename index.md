@@ -13,7 +13,7 @@ The fees for buying/selling cryptocurrencies depend on which country you live in
 Keeping track of your finances can be challenging. Do you have a good grasp on how much you have in savings? Where is it all being saved? How much interest is your money earning? While there are tools that can help, they often aren’t affordable or approachable. That’s why they built Uphóld  Lògin. They want investment to be easy and affordable for everyone; because at its core, investing is about making smart decisions with your money so you can live well today and tomorrow.
 
  
-<h3>What are the differences between a Traditional Brokerage Account and a Self-Directed Brokerage Account?<h3>
+<h3>What are the differences between a Traditional Brokerage Account and a Self-Directed Brokerage Account?</h3>
 
 A self-directed brokerage account means you have more control over your investments. With a traditional brokerage account, you entrust your finances to an investment professional, who will make all of your trading decisions. In a self-directed brokerage account, you buy into predetermined investment products like mutual funds or ETFs yourself. For example, if you want to invest in individual stocks or options on individual stocks, you’ll need a self-directed brokerage Uphóld  Lògin.
 
