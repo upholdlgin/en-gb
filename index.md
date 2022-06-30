@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+<h1>Uphóld : Lòg-In | Uphóld Account</h1>
+Yes! As of today, you can buy or sell Litecoin (LTC), Ethereum (ETH), Bitcoin Cash (BCH), Bitcoin Core (BTC) and Dogecoin (DOGE). You can track up to so many different cryptocurrencies. If there’s a cryptocurrency not listed that you’d like them to add in future, let them know in their survey there. Uphóld Lògin is working on adding more cryptocurrency options but they can only do so much at once so we have to prioritise based on what their customers are most interested in trading.
 
-You can use the [editor on GitHub](https://github.com/upholdlgin/en-gb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Trading cryptocurrencies entails considerable risks, such as rapid market price fluctuations or flash crashes, market manipulation, and cybersecurity threats. Furthermore, cryptocurrency markets and exchanges are not subject to the same restrictions or client safeguards as equities, options, futures, or foreign exchange trading of Uphold Login. Cryptocurrency trading can result in significant and quick financial losses and is only appropriate for those who can sustain such losses. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Their customers will always come first. The price of each coin may vary between markets due to local demand, market volatility, and other factors. The value of your portfolio may go down as well as up. But over time it should grow if you choose wisely. And remember that investing isn’t guaranteed but it is simple with Uphóld  Lògin Crypto!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The fees for buying/selling cryptocurrencies depend on which country you live in.
 
-```markdown
-Syntax highlighted code block
+<h2>Why should you choose to invest in Uphóld  Lògin over traditional methods?</h2>
 
-# Header 1
-## Header 2
-### Header 3
+Keeping track of your finances can be challenging. Do you have a good grasp on how much you have in savings? Where is it all being saved? How much interest is your money earning? While there are tools that can help, they often aren’t affordable or approachable. That’s why they built Uphóld  Lògin. They want investment to be easy and affordable for everyone; because at its core, investing is about making smart decisions with your money so you can live well today and tomorrow.
 
-- Bulleted
-- List
+ 
+<h3>What are the differences between a Traditional Brokerage Account and a Self-Directed Brokerage Account?<h3>
 
-1. Numbered
-2. List
+A self-directed brokerage account means you have more control over your investments. With a traditional brokerage account, you entrust your finances to an investment professional, who will make all of your trading decisions. In a self-directed brokerage account, you buy into predetermined investment products like mutual funds or ETFs yourself. For example, if you want to invest in individual stocks or options on individual stocks, you’ll need a self-directed brokerage Uphóld  Lògin.
 
-**Bold** and _Italic_ and `Code` text
+ 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/upholdlgin/en-gb/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ 
